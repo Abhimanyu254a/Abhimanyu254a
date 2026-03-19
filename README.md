@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I’m Abhimanyu, a B.Tech student specializing in Artificial Intelligence and Machine Learning 🤖. I'm passionate about exploring and learning the latest advancements in AI and technology 🌐. I’m always open to collaboration on innovative projects and eager to expand my knowledge in the field 📚.<br><br>I have experience in front-end development using HTML, CSS, and JavaScript 🎨💻, and I've also built projects showcasing my skills in AI, ML, and Large Language Models (LLMs) 🧠.<br><br>Feel free to explore my repositories and reach out for collaboration or discussion! 🤝<br><br>
+Hi there! 👋<br><br>I’m Abhimanyu, a B.Tech student specializing in Artificial Intelligence and Machine Learning 🤖. I'm passionate about exploring and learning the latest advancements in AI, ML and Game Dev 🌐. I’m always open to collaboration on innovative projects and eager to expand my knowledge in the field 📚.<br><br>I have experience in front-end development using HTML, CSS, and JavaScript 🎨💻, and I've also built projects showcasing my skills in AI, ML, and Large Language Models (LLMs) 🧠 and Now Currently Working on my own Game Engine 👾.<br><br>Feel free to explore my repositories and reach out for collaboration or discussion! 🤝<br><br>
 
 
 ## 🌐 Socials:
