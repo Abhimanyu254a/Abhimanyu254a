@@ -20,9 +20,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Abhimanyu254a&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Abhimanyu254a's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Abhimanyu254a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhimanyu Sharma's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu254a&theme=tokyonight&radius=10" alt="Abhimanyu254a's Activity Graph" />
 </p>
